@@ -1,2 +1,4 @@
 # Debug
-디버그 게임
+Study <br/>
+디버그 게임 <br/>
+Development period : 3 Month
